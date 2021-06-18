@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\clase"
+		},
+		{
+			"path": "..\\..\\Pract2b"
+		},
+		{
+			"path": "..\\..\\Practica 2"
+		},
+		{
+			"path": "..\\..\\Practica3"
+		},
+		{
+			"name": "practica3B",
+			"path": "..\\..\\practica3B"
+		},
+		{
+			"name": "practica",
+			"path": ".."
+		},
+		{
+			"name": "PractPart2",
+			"path": "..\\..\\PractPart2"
+		},
+		{
+			"name": "Practica4",
+			"path": "..\\..\\Practica4"
+		},
+		{
+			"name": "p5",
+			"path": "..\\..\\p5"
+		},
+		{
+			"name": "pruebas",
+			"path": "..\\..\\pruebas"
+		},
+		{
+			"name": "p6",
+			"path": "..\\..\\p6"
+		}
+	]
+}
